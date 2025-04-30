@@ -56,7 +56,7 @@ export default function Home() {
                 Hubungi Saya
               </Button>
               <Button variant="outline">
-                <Github className="mr-2 h-4 w-4" />
+                <Github className="mr-2 h-4 w-4" /> //Ubah button disini nanti
                 GitHub
               </Button>
             </div>
@@ -244,7 +244,7 @@ export default function Home() {
             <Card className="flex flex-col items-center p-6">
               <Github className="h-12 w-12 mb-4 text-primary" />
               <CardTitle className="text-xl mb-2">GitHub</CardTitle>
-              <CardDescription className="text-center">github.com/namasaya</CardDescription>
+              <CardDescription className="text-center">github.com/bryansasa</CardDescription>
             </Card>
           </div>
         </section>
