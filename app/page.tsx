@@ -40,7 +40,7 @@ export default function Home() {
         <section id="tentang" className="py-12 md:py-24 lg:py-32 flex flex-col md:flex-row items-center gap-8">
           <div className="flex-1 space-y-4">
             <h1 className="text-4xl font-bold tracking-tight lg:text-5xl">
-              Halo, Saya <span className="text-primary">Nama Saya</span>
+              Halo, Saya <span className="text-primary">Bryan Gabriel Izaac Sasabone</span>
             </h1>
             <p className="text-xl text-muted-foreground">
               Software Engineer dengan pengalaman dalam pengembangan web dan mobile.
