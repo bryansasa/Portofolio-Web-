@@ -55,12 +55,12 @@ export default function Home() {
                 <Mail className="mr-2 h-4 w-4" />
                 Hubungi Saya
               </Button>
-              <Button variant="outline">
               <a href="https://github.com/bryansasa" target="_blank" rel="noopener noreferrer">
+              <Button variant="outline">
                 <Github className="mr-2 h-4 w-4" /> 
                 GitHub
-              </a>
               </Button>
+              </a>
             </div> 
           </div>
           <div className="flex-1 flex justify-center">
