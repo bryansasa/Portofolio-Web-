@@ -56,10 +56,12 @@ export default function Home() {
                 Hubungi Saya
               </Button>
               <Button variant="outline">
-                <Github className="mr-2 h-4 w-4" /> //Ubah button disini nanti
+              <a href="https://github.com/bryansasa" target="_blank" rel="noopener noreferrer">
+                <Github className="mr-2 h-4 w-4" /> 
                 GitHub
+              </a>
               </Button>
-            </div>
+            </div> 
           </div>
           <div className="flex-1 flex justify-center">
             <Avatar className="h-64 w-64">
