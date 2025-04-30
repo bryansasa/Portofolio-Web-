@@ -65,7 +65,7 @@ export default function Home() {
           </div>
           <div className="flex-1 flex justify-center">
             <Avatar className="h-64 w-64">
-              <AvatarImage src="/cooked.jpg?height=256&width=256" alt="Foto Profil" />
+              <AvatarImage src="/cooked.jpg?height=512&width=512" alt="Foto Profil" />
               <AvatarFallback>NS</AvatarFallback>
             </Avatar>
           </div>
